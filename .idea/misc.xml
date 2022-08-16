@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/drawable-v24/bullet.xml" value="0.3185" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/drawable-v24/customborder2.xml" value="0.3185" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/drawable-v24/gradient2.xml" value="0.318" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/drawable/circle.xml" value="0.288" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/drawable/customborder3.xml" value="0.253" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/drawable/customborder4.xml" value="0.253" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/drawable/gradient.xml" value="0.318" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.193" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/activity_about_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/activity_content_inside.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/activity_guide_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/activity_home_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/card_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/custom_dialog_content.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/custom_dialog_info.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/fragment_frament_tip.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/fragment_guide.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/fragment_tip.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/JustOnce/app/src/main/res/layout/fragment_way.xml" value="0.33748271092669435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
